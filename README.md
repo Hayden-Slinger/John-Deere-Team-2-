@@ -12,6 +12,8 @@ John Deere(final prez).twbx -- Tableau Dashboard that displays our findings in a
 
 John Deere 2 Report.docx --  Written report providing details of the Project.
 
+John Deere Cleaning 5.6.24 (1).R -- R code that takes the raw data and processes it into the final output data
+
 John Deere Smart test Analysis.pdf -- More details from John Deere about their Smart Test, the data structure, and requirements for metric calculations
 
 Presentation - John Deere 2.pptx -- PowerPoint delivered to John Deere staff after the conclusion of the project. 
